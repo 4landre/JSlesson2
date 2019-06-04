@@ -16,6 +16,13 @@ body {
     text-align: center;
 }
 
+#main div:nth-child(2) {
+    margin-left: -50px;
+}
+#main div:nth-child(3) {
+    margin-left: -150px;
+}
+
 #main div kbd {
     display: inline-block;
     width: 73px;
@@ -32,7 +39,7 @@ body {
     position: relative;
 }
 
- img {
+img {
     width: 18px;
     height: 18px;
     position: absolute;
